@@ -1,7 +1,7 @@
 pelican-pyembed
 ==========================
 
-This is a `Pelican`_ plugin for embedding content on your website.
+This is a `Pelican` plugin for embedding content on your website.
 It is a very thin wrapper around `PyEmbed`_ library.
 
 
